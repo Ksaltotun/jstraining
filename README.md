@@ -1,2 +1,2 @@
 # jstraining
-learning js
+Repository for trash coding and fcn taking pain/ 
