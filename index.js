@@ -1,4 +1,4 @@
-var x = 5;
-var y = 6;
-var c = String(x) + " " + String(y);
-alert(c);
+// сумма чисел
+var x = +prompt("Введите Х", 0);
+var y = +prompt("Введите У", 0);
+document.write('Х + У = ' + (x + y));
